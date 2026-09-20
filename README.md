@@ -95,18 +95,6 @@ javac -d bin $(find src -name "*.java")
 java -cp bin com.biblioteca.Main
 ```
 
----
-
-## 🔗 Enlaces del proyecto
-
-| Recurso | Enlace |
-|---|---|
-| 🖼️ Diagrama de clases (draw.io) | [Ver diagrama](https://drive.google.com/file/d/1aIydJO9S9WCgRq2z0ysX-u7Yax-LGk8b/view?usp=sharing) |
-| 🎥 Video sustentación EA1 | `[pendiente]` |
-| 🎥 Video sustentación EA2 (5-8 min) | `[pendiente]` |
-
----
-
 ## 📝 Control de versiones
 
 Cada integrante aporta mediante commits propios e identificables, con mensajes descriptivos (ej. `"Implementa clase Autor con agregacion hacia Libro"`), evidenciando la participación equitativa del equipo a lo largo de ambas evidencias.
